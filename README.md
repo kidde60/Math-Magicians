@@ -1,13 +1,13 @@
-# Math Magician Setup
+# Math magicians: components
 
-> IThis is the first project of the Math Magicians application. You will set up the environment and tools needed to develop a React application. In the following projects, you will develop the actual application.
+> In this project, you should continue with the development of the Math Magicians app. You will develop a React component that will hold the core functionality: a calculator.
 
 ## Built With
 
 - HTML
 - CSS
-- Javascript
 - webpack
+- React js
 
 ## Live Link
 -  

@@ -1,6 +1,6 @@
 # Math magicians: refactor with hooks
 
-> In this project you will refactor the Calculator component you developed in the past projects. Instead of using class based components, you will use now hooks.
+>In this project, I created a full website for the Math magicians app, consisting of several pages using components.
 
 ## Built With
 

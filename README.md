@@ -1,13 +1,13 @@
-# Math Magician Setup
+# Math magicians: refactor with hooks
 
-> IThis is the first project of the Math Magicians application. You will set up the environment and tools needed to develop a React application. In the following projects, you will develop the actual application.
+> In this project you will refactor the Calculator component you developed in the past projects. Instead of using class based components, you will use now hooks.
 
 ## Built With
 
 - HTML
 - CSS
-- Javascript
 - webpack
+- React js
 
 ## Live Link
 -  
